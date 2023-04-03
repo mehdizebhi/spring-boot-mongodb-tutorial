@@ -1,4 +1,4 @@
-package com.example.springwithmongodb.service;
+package com.example.springwithmongodb.service.product;
 
 import com.example.springwithmongodb.model.product.Product;
 import com.example.springwithmongodb.repository.ProductRepository;

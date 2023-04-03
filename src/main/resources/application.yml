@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      uri: ${mongodb.uri}
+      uri: ${mongodbUri}
       database: spring_test
